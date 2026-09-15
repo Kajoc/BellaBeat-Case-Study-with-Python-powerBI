@@ -20,7 +20,15 @@ Bellabeat's marketing strategy. The goal is to translate these behavioral trends
 |------|-------------|
 | [📓 Full Analysis Notebook](./Bellabeat-Notebook.ipynb) | Complete Python code, cleaning steps, analysis, insights and recommendations. |
 | [📊 Power BI Dashboard](./FitBit-Dashboard.pbix) | Interactive dashboard visualizing key trends |
+## 🖼️ Dashboard Preview
 
+A quick look at the final Power BI dashboard. Open the full dashboard file for interactivity.
+
+### Executive Summary
+![Executive Summary Dashboard](./executive-summary.png)
+
+### User Profiles
+![User Profiles Dashboard](./user-profiles.png)
 
 ## 🔍 Key Insights
 1. **[Insight 1]** — e.g., "Users are most active on Tuesdays and Saturdays"
